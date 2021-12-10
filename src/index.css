@@ -286,6 +286,8 @@
   background-color: var(--color-bg);
   box-shadow: -5px -5px 20px var(--color-white),
     5px 5px 20px var(--color-shadow);
+  border-radius: 5%;
+  padding: 10px 30px;
   /*********************************** SMALL ***********************************/
 }
 .sul-box-raised-1.with-hover:hover {
@@ -297,6 +299,8 @@
   background-color: var(--color-bg);
   box-shadow: 3px 3px 7px var(--color-shadow), -3px -3px 7px var(--color-white),
     inset 0 0 0 transparent, inset 0 0 0 transparent;
+  border-radius: 5%;
+  padding: 10px 30px;
   /*********************************** SMALL ***********************************/
 }
 .sul-box-raised-2.with-hover:hover {
@@ -320,6 +324,8 @@
 .sul-box-raised-3 {
   background-color: var(--color-bg);
   box-shadow: -2px -2px 5px var(--color-white), 2px 2px 5px var(--color-shadow);
+  border-radius: 5%;
+  padding: 10px 30px;
   /*********************************** SMALL ***********************************/
 }
 .sul-box-raised-3.with-hover:hover {
